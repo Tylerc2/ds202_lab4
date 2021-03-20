@@ -154,7 +154,7 @@ ggplot(data = plcomp, aes(x=Name, y=Score)) +
   geom_boxplot() + theme(axis.text.x=element_text(angle=90, hjust=1))
 
 ```
-Players earned points based off there stats a value of 1 in a stat earned them 1 point for example. Brock Purdy out performed Every other player signifigantly and is the beat the mean score by about 3000 points 
+Players earned points based off there stats a value of 1 in a stat earned them 1 point for example. Brock Purdy out performed Every other player significantly and is the beat the mean score by about 3000 points 
 
 
 
